@@ -468,6 +468,7 @@ function PaymentDemo() {
                   >
                     <MenuItem value="USDT">USDT</MenuItem>
                     <MenuItem value="ETH">ETH</MenuItem>
+                    <MenuItem value="TRX">TRX</MenuItem>
                   </Select>
                 </FormControl>
               </Grid>
@@ -566,6 +567,7 @@ function PaymentDemo() {
                   >
                     <MenuItem value="USDT">USDT</MenuItem>
                     <MenuItem value="ETH">ETH</MenuItem>
+                    <MenuItem value="TRX">TRX</MenuItem>
                   </Select>
                 </FormControl>
               </Grid>
